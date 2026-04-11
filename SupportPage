@@ -1,0 +1,108 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Say it Again – Support</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            background: linear-gradient(135deg, #1e1e2f, #3a3a6a);
+            color: #ffffff;
+        }
+
+        .container {
+            max-width: 800px;
+            margin: 0 auto;
+            padding: 40px 20px;
+        }
+
+        h1 {
+            font-size: 36px;
+            margin-bottom: 10px;
+        }
+
+        h2 {
+            margin-top: 40px;
+            color: #ffd166;
+        }
+
+        p {
+            line-height: 1.6;
+        }
+
+        .card {
+            background: rgba(255,255,255,0.08);
+            padding: 20px;
+            border-radius: 12px;
+            margin-top: 20px;
+        }
+
+        a {
+            color: #ffd166;
+            text-decoration: none;
+        }
+
+        a:hover {
+            text-decoration: underline;
+        }
+
+        footer {
+            margin-top: 50px;
+            font-size: 14px;
+            opacity: 0.7;
+        }
+    </style>
+</head>
+<body>
+
+<div class="container">
+    <h1>Say it Again</h1>
+    <p><strong>Support</strong></p>
+
+    <div class="card">
+        <h2>About the App</h2>
+        <p>
+            Say it Again is an educational party game based on recognizing quotes from movies,
+            TV shows, and other pop culture content. The app works with physical cards and
+            also allows fully online gameplay.
+        </p>
+    </div>
+
+    <div class="card">
+        <h2>Contact</h2>
+        <p>
+            If you have any issues or questions, feel free to contact:
+        </p>
+        <p>
+            📧 Email: <a href="mailto:your@email.com">your@email.com</a>
+        </p>
+    </div>
+
+    <div class="card">
+        <h2>FAQ</h2>
+        <p><strong>The app has no sound:</strong><br>
+        Please check your volume settings and internet connection.</p>
+
+        <p><strong>QR code is not working:</strong><br>
+        Make sure you scan the code in good lighting and your camera is focused.</p>
+
+        <p><strong>Online mode is not working:</strong><br>
+        Try restarting the app or checking your network connection.</p>
+    </div>
+
+    <div class="card">
+        <h2>Privacy</h2>
+        <p>
+            The Say it Again app does not collect personal data without the user's knowledge.
+        </p>
+    </div>
+
+    <footer>
+        © 2026 Say it Again. All rights reserved.
+    </footer>
+</div>
+
+</body>
+</html>
