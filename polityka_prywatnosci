@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="pl">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Polityka Prywatności - SayItAgain</title>
+    <style>
+        body { font-family: Arial, sans-serif; line-height: 1.6; margin: 20px; background-color: #000000 !important; color: #9a743e !important; }
+        h1, h2 { color: #9a743e !important; }
+        h1 { margin-bottom: 0.5em; }
+        h2 { margin-top: 1.5em; }
+        p { margin: 0.8em 0; }
+        ul { margin: 0.5em 0 1em 1.5em; }
+        .section { margin-bottom: 1.5em; }
+    </style>
+</head>
+<body>
+<h1>Polityka Prywatności</h1>
+<p>Niniejsza Polityka Prywatności określa zasady zbierania, przetwarzania i wykorzystywania danych osobowych użytkowników aplikacji mobilnej <strong>SayItAgain</strong>, stworzonej i udostępnianej przez <strong>TomatoGaming</strong>.</p>
+<div class="section">
+    <h2>1. Administrator danych</h2>
+    <p><strong>Nazwa:</strong> TomatoGaming</p>
+    <p><strong>Adres:</strong> Katowice, Polska</p>
+    <p><strong>Kontakt (e-mail):</strong> szyjanq@gmail.com</p>
+</div>
+<div class="section">
+    <h2>2. Zakres i cel zbierania danych</h2>
+    <ul>
+        <li><strong>Dostęp do internetu:</strong> wymagany do odtwarzania ścieżek audio.</li>
+        <li><strong>Dostęp do kamery:</strong> wymagany do skanowania kodów QR w trybie fizycznym.</li>
+    </ul>
+    <p><strong>Brak trwałego przechowywania danych użytkownika:</strong> Aplikacja nie przechowuje trwale żadnych danych wprowadzonych przez użytkownika (pseudonimy, odpowiedzi, wyniki). Wszystkie dane są przechowywane wyłącznie w pamięci roboczej i usuwane po zamknięciu aplikacji.</p>
+</div>
+<div class="section">
+    <h2>3. Podstawa prawna przetwarzania</h2>
+    <p>Przetwarzanie jest niezbędne do wykonania usługi zgodnie z umową z użytkownikiem (art. 6 ust. 1 lit. b RODO), tj. obsługi skanera QR i odtwarzania cytatów.</p>
+</div>
+<div class="section">
+    <h2>4. Udostępnianie danych</h2>
+    <p>Administrator nie udostępnia żadnych zebranych danych osobom trzecim.</p>
+</div>
+<div class="section">
+    <h2>5. Okres przechowywania danych</h2>
+    <p>Dane są przetwarzane wyłącznie podczas sesji użytkownika i usuwane natychmiast po jej zakończeniu (zamknięciu aplikacji).</p>
+</div>
+<div class="section">
+    <h2>6. Prawa użytkownika</h2>
+    <p>Użytkownik ma prawo do:</p>
+    <ul>
+        <li>dostępu do swoich danych,</li>
+        <li>sprostowania danych,</li>
+        <li>usunięcia danych („prawo do bycia zapomnianym"),</li>
+        <li>ograniczenia przetwarzania,</li>
+        <li>sprzeciwu wobec przetwarzania,</li>
+        <li>przenoszenia danych,</li>
+        <li>wniesienia skargi do Prezesa Urzędu Ochrony Danych Osobowych.</li>
+    </ul>
+</div>
+<div class="section">
+    <h2>7. Zmiany Polityki Prywatności</h2>
+    <p>Administrator zastrzega sobie prawo do wprowadzania zmian w Polityce Prywatności. Użytkownicy będą informowani o wszelkich zmianach poprzez zaktualizowaną wersję dokumentu dostępną w aplikacji oraz na stronie internetowej.</p>
+</div>
+<p><em>Ostatnia aktualizacja: 03.02.2026</em></p>
+</body>
+</html>
