@@ -7,7 +7,7 @@
     var ua = navigator.userAgent || navigator.vendor || window.opera;
 
     if (/android/i.test(ua)) {
-      window.location.replace("https://play.google.com/store/apps/details?id=com.tomato.sayitagain");
+      window.location.replace("intent://details?id=com.tomato.sayitagain#Intent;scheme=market;action=android.intent.action.VIEW;package=com.android.vending;end");
     } else if (/iPad|iPhone|iPod/.test(ua) && !window.MSStream) {
       window.location.replace("https://apps.apple.com/pl/app/say-it-again/id6761344412");
     } else {
